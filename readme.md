@@ -30,9 +30,9 @@ go to task manager -> "Details" -> find the executable name (sus) -> press "End 
 
 ## 📚 EXTRA RESOURCES
 
-- Learn how to login as another user (XSS):
-- Learn how to steal data from database (SQL injection):
-- Learn how to crack a password using python (Brute force attack & Dictionary Attack):
+- Learn how to login as another user (XSS): https://www.youtube.com/watch?v=hIXzZVBy528&t=212s
+- Learn how to steal data from database (SQL injection): https://www.youtube.com/watch?v=wSOlJ_duQU4&t=811s
+- Learn how to crack a password using python (Brute force attack & Dictionary Attack): https://www.youtube.com/watch?v=VnBirsGV5hM
 
 ## 😃 WHO AM I:
 
