@@ -2,7 +2,7 @@
 
 ## Watch the Video First!
 
-Video Link: \
+Video Link: https://www.youtube.com/watch?v=DsEnXkhdTPE&t=27s\
 In this video I covered how to record everything the user typed on their computer including the username and password using C++ 😈. This is common type of virus known as keyloggers, but this is a very simple version of it and we can talk more about how to make it more powerful in future videos. Just like always, this video is for educational purposes. If you do any illegal stuff you will get arrested 🚓!
 
 ## Instalation
